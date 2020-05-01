@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri May  1 18:06:28 2020
+Invocation: foremost 彩虹.png 
+Output directory: /Users/cxy/Downloads/Compressed/attachment/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: 彩虹.png
+Start: Fri May  1 18:06:28 2020
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000022.zip 	      10 KB 	      11552 	 
+1:	00000000.png 	      11 KB 	          0 	  (500 x 500)
+Finish: Fri May  1 18:06:28 2020
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri May  1 18:06:28 2020
